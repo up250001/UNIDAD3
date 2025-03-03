@@ -1,0 +1,8 @@
+x1=int(input('ingrese el valor de x1'))
+x2=int(input('Ingrese el valor de x2'))
+y1=complex(2*x1-2)
+y2=complex(2*x2-2)
+r=(y2-y1)
+v=(x2-x1)
+p=((r/v))
+print('la pendiente es: ',p)

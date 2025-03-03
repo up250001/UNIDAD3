@@ -1,0 +1,6 @@
+longitud=int(input('ingrese longitud'))
+ancho=int(input('ingrese ancho'))
+area=int(longitud*ancho)
+perimetro=int(2*area)
+print('el area es: ',area)
+print('el perimetro es: ',perimetro)
