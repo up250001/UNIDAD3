@@ -1,3 +1,3 @@
-age=int(18)
-heigth=float(1.68)
+age=int(19)
+heigth=float(1.90)
 iqgael=complex(1*2)
