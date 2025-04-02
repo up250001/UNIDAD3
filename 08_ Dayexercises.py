@@ -17,7 +17,7 @@ student = {
     'city':'Aguascalientes',
     'addres':{
         'street':'vallarta Street',
-        'zipcode':'NFX 6NK',}}
+        'zipcode':'20196',}}
 
 print(f'The lenght of the student dictionary is {len(student)}')
 print(f'The data type of student skills is {type(student["skills"])}')
